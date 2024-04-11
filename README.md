@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Martinus Galih 👋
 
+- 🔭 I’m currently working as an iOS Engineer
+- 🌱 I’m currently learning Flutter, React Native and Web Development
+- 📫 How to reach me: martinusgalih98@gmail.com
 <!--
 **martinusgalih/martinusgalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Martinus GitHub stats](https://github-readme-stats.vercel.app/api?username=martinusgalih)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinusgalih)](https://github.com/anuraghazra/github-readme-stats)
